@@ -16,30 +16,73 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#2`
 
-Describe the purpose of your survey:
+  
 ```
-write your answer here...
+
+
+Describe the purpose of your survey: Identify the reasons there is a high turnover rate in the company and what can be done to reduce it. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
+
+Target population: All lower level and entry level employees currently working at the company and those who have left in the last year. They can be identified by pay grade level. 
+
+Sampling frame: HR database of entry and lower level employees of the company including those who have left in the last year. They can be identified by pay grade level.  
+
+Sampling units: Every individual employee who was/is  at entry level position or lower level position, who actually complete the survey. 
+
+Observational units:
+- Employee satisfaction
+- Reasons for leaving
+- Reasons for staying
+- Level of satisfaction with managers 
+- Work enviornment
+- Satisfaction with salary
+
+Sampling strategy- Startified sampling. Divide the employees by strata (department, position, status of employment) then send it to everyone in each strata. 
+
 ```
 
-Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+
+Your 5-10 question survey: Anonymous survey
+```
+1. How long have you worked at your current position?
+    - 0-6 months
+    - 6-12 months
+    - one year
+    - 2 years or more
+    
+2. On a scale of 1-10 rate your level of satisfaction with the work enviornment. 1 being Toxic and 10 Being great. 
+
+3. How satisfied are you with your job? 
+    - You love working here
+    - You are only doing it for the money. 
+    - You think there is no potential for growth. 
+    - You hate it here. 
+4. What is your reason for leaving?
+    -Better job offer
+    -No opportunity for growth
+    - Not enough compensation
+    -Dissatisfaction with higher level management
+    -Dissatisfaction with the work culture and colleagues.  
+    -Lack of work life balance
+    - Other (please specify)
+5. How likely are you to stay in your current position?
+    - Dont want to stay, looking for jobs
+    - Somewhat likely, but open to other options. 
+    - Neutral
+    - Very likely to stay
+    
+6. How do you feel about your compensation( salary and benefits) compare to industry standards?
+    - Below industry standards
+    - At par with industry standards
+    - Above industry standards. 
+    - Undecided 
+7. What do you feel would improve employee satisfaction and retention?
+
 ```
 
 ## Rubric
