@@ -33,13 +33,7 @@ Sampling frame: HR database of entry and lower level employees of the company in
 
 Sampling units: Every individual employee who was/is  at entry level position or lower level position, who actually complete the survey. 
 
-Observational units:
-- Employee satisfaction
-- Reasons for leaving
-- Reasons for staying
-- Level of satisfaction with managers 
-- Work enviornment
-- Satisfaction with salary
+Observational units: Individual employee(current or past) fitting the criteria. 
 
 Sampling strategy- Startified sampling. Divide the employees by strata (department, position, status of employment) then send it to everyone in each strata. 
 
